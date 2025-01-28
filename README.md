@@ -17,6 +17,7 @@ osu Guesser is a fun and interactive mini-game extension for Twitch that challen
 
 1. Use osuApiV2 to retrieve additional maps.
 2. Add an option to filter maps by status, such as Loved, Approved, Ranked, etc.
+3. Improve the design of the extension for a better user experience.
 
 ## Contributing 💡
 
